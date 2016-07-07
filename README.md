@@ -1,6 +1,6 @@
 # 五子棋AI
 
-极大极小值算法的五子棋AI实现。 打开此页面可以直接体验 [http://gobang.light7.cn/](http://gobang.light7.cn/)
+极大极小值算法的五子棋AI实现。 打开此页面可以直接体验 [http://azlovecc.ml/wuziqi](http://azlovecc.ml/wuziqi)
 
 # 安装依赖
 
